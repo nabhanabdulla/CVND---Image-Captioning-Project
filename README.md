@@ -1,5 +1,21 @@
 # CVND---Image-Captioning-Project
 
+# Todo
+- [ ] Add project description
+- [ ] Add applications of image captioning
+- [ ] Explain the helper functions in detail
+  - [ ] data_loader
+  - [ ] vocabulary
+  - [ ] model
+- [ ] Explain project in detail
+
+# Contents
+1. Project Overview
+2. Applications
+3. Helper functions
+4. Project Walkthrough
+5. Instructions to set up locally
+
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
