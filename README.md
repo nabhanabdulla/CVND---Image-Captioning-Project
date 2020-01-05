@@ -1,12 +1,19 @@
 # CVND---Image-Captioning-Project
 
+Deep learning research has flourished since AlexNet in 2012. Today, variants of ResNet and EfficientNet algorithms have attained results on par to humans in image classification tasks. But, humans don't just detect objects but also can comprehend the complex relationships between them in the real world.
+
+Image captioning is about understanding relations between objects in a scene and coming up with a description of it in natural language. Two sets of algorithms work subsequently to make image captioning possible - namely Convolutional Neural Network(CNN) and Recurrent Neural Network(RNN). The former known in the deep learning world for its ability to work wonders with images spits out a summary of the image which the latter utilises to forge awesome text description of the scene
+
 # Todo
-- [ ] Add project description
+- [X] Add project description
+
 - [ ] Add applications of image captioning
+
 - [ ] Explain the helper functions in detail
   - [ ] data_loader
   - [ ] vocabulary
   - [ ] model
+  
 - [ ] Explain project in detail
 
 # Contents
